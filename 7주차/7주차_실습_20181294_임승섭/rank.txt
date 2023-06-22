@@ -1,0 +1,5 @@
+4
+DOG 12345
+CAT 9999
+qqqqq 90
+APPLE 1

@@ -1,0 +1,15 @@
+test case 1
+1c1
+< 1
+\ No newline at end of file
+---
+> 100
+\ No newline at end of file
+wrong answer
+
+test case 2
+pass
+
+test case 3
+pass
+
